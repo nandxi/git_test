@@ -1,3 +1,4 @@
 I am learning how to use git
 
 This is another line
+This line is added to test if I can add a commit message using vscode when -m flag is omitted.
